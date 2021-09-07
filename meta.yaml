@@ -1,0 +1,79 @@
+papers:
+  - title: Compiling Packet Programs to Reconfigurable Switches
+    authors:
+      - name: Lavanya Jose
+        affiliation: Stanford University
+      - name: Lisa Yan
+        affiliation: Stanford University
+      - name: George Varghese
+        affiliation: Microsoft Research
+      - name: Nick McKeown
+        affiliation: Microsoft Research
+    where: NSDI
+    when: 2015
+  - title: The Case for an Intermediate Representation for Programmable Data Planes
+    authors:
+      - name: Muhammad Shahbaz
+        affiliation: Princeton University
+      - name: Nick Feamster
+        affiliation: Princeton University
+    where: SOSR
+    when: 2015
+  - title: "Packet Transactions: High-Level Programming for Line-Rate Switches"
+    authors:
+      - name: Anirudh Sivaraman
+        affiliation: MIT CSAIL
+      - name: Alvin Cheung
+        affiliation: University of Washington
+      - name: Mihai Budiu
+        affiliation: VMWare Research
+      - name: Changhoon Kim
+        affiliation: Barefoot Networks
+      - name: Mohammad Alizadeh
+        affiliation: MIT CSAIL
+      - name: Hari Balakrishnan
+        affiliation: MIT CSAIL
+      - name: George Varghese
+        affiliation: Microsoft Research
+      - name: Nick McKeown
+        affiliation: Stanford University
+      - name: Steve Licking
+        affiliation: Barefoot Networks
+    where: SIGCOMM
+    when: 2016
+  - title: Composing Dataplane Programs with μp4
+    authors:
+      - name: Hardik Soni
+        affiliation: Cornell University
+      - name: Myriana Rifai
+        affiliation: Nokia Bell Labs
+      - name: Praveen Kumar
+        affiliation: Cornell University
+      - name: Ryan Doenges
+        affiliation: Cornell University
+      - name: Nate Foster
+        affiliation: Cornell University
+    where: SIGCOMM
+    when: 2020
+  - title: Switch Code Generation Using Program Synthesis
+    authors:
+      - name: Xiangyu Gao
+        affiliation: New York University
+      - name: Taegyun Kim
+        affiliation: New York University
+      - name: Michael D. Wong
+        affiliation: New York University
+      - name: Divya Raghunathan
+        affiliation: Princeton University
+      - name: Aatish Kishan Varma
+        affiliation: New York University
+      - name: Pravein Govindan Kannan
+        affiliation: National University of Singapore
+      - name: Anirudh Sivaraman
+        affiliation: New York University
+      - name: Srinivas Narayana
+        affiliation: Rutgers University
+      - name: Aarti Gupta
+        affiliation: Princeton University
+    where: SIGCOMM
+    when: 2020
